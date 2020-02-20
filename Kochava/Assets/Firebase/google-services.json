@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753186710874",
+    "firebase_url": "https://bud-farm-idle-tycoon-84467768.firebaseio.com",
+    "project_id": "bud-farm-idle-tycoon-84467768",
+    "storage_bucket": "bud-farm-idle-tycoon-84467768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753186710874:android:505e205e5de543d2dbff63",
+        "android_client_info": {
+          "package_name": "com.LDRLY.budfarmidletycoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753186710874-t98mughpii04mns4mnp1udvij0g5lnj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6-_uelcJVu97o9d85nL6omK1tbaup1qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753186710874-t98mughpii04mns4mnp1udvij0g5lnj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
